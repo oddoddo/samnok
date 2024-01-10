@@ -1,0 +1,16 @@
+@import 'reset';
+
+.s1 {
+    height: 200vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background: url(https://www.samnok.co.kr/asset/img/main/visual_bg01.jpg) no-repeat 50% 0 / cover;
+}
+
+.s3 {
+    position: relative;
+    padding-bottom: 2000px;
+    background: #000;
+}
